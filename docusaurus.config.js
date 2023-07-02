@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Phaneroo Scan',
-  tagline: 'Premier QR Code scanning app',
+  tagline: 'Automating registration workflows for Phaneroo ministries',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,7 +66,7 @@ const config = {
       navbar: {
         title: 'Phaneroo Scan',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Phaneroo logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -74,11 +74,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/phaneroo',
             label: 'GitHub',
             position: 'right',
           },
