@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Phaneroo Scan',
-  tagline: 'Automating registration workflows for Phaneroo ministries',
+  tagline: 'Automating registration workflows through scanning QR Codes',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -104,6 +104,18 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/Phanerookampala',
               },
+              {
+                label: 'Instagram',
+                href: 'https://instagram.com/phaneroo',
+              },
+              {
+                label: 'Facebook',
+                href: 'https://facebook.com/phanerookampala',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://youtube.com/c/phanerookampala',
+              },
             ],
           },
           {
@@ -120,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Phaneroo Ministries International. Built by Phaneroo IT.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Phaneroo Ministries International. Documented by Phaneroo IT.`,
       },
       prism: {
         theme: lightCodeTheme,
