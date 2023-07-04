@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocasaurus=self.webpackChunkdocasaurus||[]).push([[9056],{7726:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/phanerooscandocs/blog/tags/facebook","allTagsPath":"/phanerooscandocs/blog/tags","count":1}')}}]);

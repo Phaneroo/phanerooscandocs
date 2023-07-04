@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocasaurus=self.webpackChunkdocasaurus||[]).push([[7864],{3169:o=>{o.exports=JSON.parse('{"permalink":"/phanerooscandocs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

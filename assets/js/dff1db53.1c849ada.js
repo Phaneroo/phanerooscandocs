@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocasaurus=self.webpackChunkdocasaurus||[]).push([[9328],{9857:s=>{s.exports=JSON.parse('{"permalink":"/phanerooscandocs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
